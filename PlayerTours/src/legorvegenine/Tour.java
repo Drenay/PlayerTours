@@ -56,3 +56,5 @@ public class Tour
 		return tourGuide.getName() + " is giving " + newPlayer.getName() + " a tour.";
 	}
 }
+
+//GITHUB TEST LMAO
